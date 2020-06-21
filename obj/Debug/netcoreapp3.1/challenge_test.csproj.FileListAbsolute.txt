@@ -1,0 +1,11 @@
+C:\Users\theza\Desktop\Swin\Programming\challenge_test\bin\Debug\netcoreapp3.1\challenge_test.exe
+C:\Users\theza\Desktop\Swin\Programming\challenge_test\bin\Debug\netcoreapp3.1\challenge_test.deps.json
+C:\Users\theza\Desktop\Swin\Programming\challenge_test\bin\Debug\netcoreapp3.1\challenge_test.runtimeconfig.json
+C:\Users\theza\Desktop\Swin\Programming\challenge_test\bin\Debug\netcoreapp3.1\challenge_test.runtimeconfig.dev.json
+C:\Users\theza\Desktop\Swin\Programming\challenge_test\bin\Debug\netcoreapp3.1\challenge_test.dll
+C:\Users\theza\Desktop\Swin\Programming\challenge_test\bin\Debug\netcoreapp3.1\challenge_test.pdb
+C:\Users\theza\Desktop\Swin\Programming\challenge_test\obj\Debug\netcoreapp3.1\challenge_test.csprojAssemblyReference.cache
+C:\Users\theza\Desktop\Swin\Programming\challenge_test\obj\Debug\netcoreapp3.1\challenge_test.AssemblyInfoInputs.cache
+C:\Users\theza\Desktop\Swin\Programming\challenge_test\obj\Debug\netcoreapp3.1\challenge_test.AssemblyInfo.cs
+C:\Users\theza\Desktop\Swin\Programming\challenge_test\obj\Debug\netcoreapp3.1\challenge_test.dll
+C:\Users\theza\Desktop\Swin\Programming\challenge_test\obj\Debug\netcoreapp3.1\challenge_test.pdb
